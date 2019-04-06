@@ -6,5 +6,5 @@ This flutter application is a very minimal todo app I made for flutter create co
 ## How to run
 To run this app you just need to use 'flutter run' command
 
-Extra Packages Used
-    - [Flutter Svg]('https://pub.dartlang.org/packages/flutter_svg')
+## Extra Packages Used
+    - [Flutter Svg](https://pub.dartlang.org/packages/flutter_svg)
