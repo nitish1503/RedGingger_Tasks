@@ -1,16 +1,7 @@
-# redginggertasks
-
+# RedGingger Tasks
 A minimal Todo App.
 
-## Getting Started
+This flutter application is a very minimal todo app I made for flutter create contest. I have given this app a name called 'RedGingger Tasks' and the logo is also designed by me. This is just to create a brand identity nothing else.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## How to run
+To run this app you just need to use 'flutter run' command
